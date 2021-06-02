@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="JavaQuickStart:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/JavaQuickStart_jar</output-path>
+    <root id="archive" name="JavaQuickStart.jar">
+      <element id="module-output" name="JavaQuickStart" />
+    </root>
+  </artifact>
+</component>
